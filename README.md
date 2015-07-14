@@ -1,4 +1,4 @@
-![Alt text](/path/to/img.jpg "UEU")
+![Alt text](https://raw.githubusercontent.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/master/irudiak/goiburua.png)
 
 #Sare aplikazioak Node.js-rekin eta web irekia
 
