@@ -39,9 +39,13 @@ Ikastaroa 2015eko uztailaren 15 eta 16ean eman da Eibarren.
 ###Nork/Nola/Zergatik
 
 * [Groupon](https://github.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/blob/master/nork_nola_zergatik/Groupon.md)
+
 * [Linkedin](https://github.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/blob/master/nork_nola_zergatik/Linkedin.md)
+
 * [Netflix](https://github.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/blob/master/nork_nola_zergatik/Netflix.md)
+
 * [New York Times](https://github.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/blob/master/nork_nola_zergatik/NewYorkTimes.md)
+
 * [PayPal](https://github.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/blob/master/nork_nola_zergatik/PayPal.md)
 
 
