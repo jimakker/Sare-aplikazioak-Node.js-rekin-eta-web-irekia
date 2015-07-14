@@ -2,7 +2,7 @@
 
 #EVENT LOOP
 
-![Irudia]()
+![Irudia](https://github.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/raw/master/irudiak/tradizionala_vs_nodejs.png)
 Irudiaren sortzailea: <http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js>
 
 
