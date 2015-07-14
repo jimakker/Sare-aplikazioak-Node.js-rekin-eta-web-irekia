@@ -1,6 +1,8 @@
+![Alt text](https://raw.githubusercontent.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/master/irudiak/goiburua.png)
+
 #Linkedin
 
-https://www.talentbuddy.co/blog/building-with-node-js-at-linkedin/
+<https://www.talentbuddy.co/blog/building-with-node-js-at-linkedin/>
 
 * Ruby-tik Node.js-ra
 

@@ -1,6 +1,8 @@
+![Alt text](https://raw.githubusercontent.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/master/irudiak/goiburua.png)
+
 #New York Times 
 
-https://www.talentbuddy.co/blog/building-with-node-js-at-the-new-york-times/
+<https://www.talentbuddy.co/blog/building-with-node-js-at-the-new-york-times/>
 
 * Times Video eta Video API
     

@@ -1,3 +1,5 @@
+![Alt text](https://raw.githubusercontent.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/master/irudiak/goiburua.png)
+
 #ZER DA
     
 * Gertakizunetan oinarritutako arkitektura bat eta sarrera/irteera asinkronoa erabiltzen ditu, sistemaren denbora minimizatzeko eta eskalagarritasuna maximizatzeko.

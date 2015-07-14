@@ -1,6 +1,8 @@
+![Alt text](https://raw.githubusercontent.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/master/irudiak/goiburua.png)
+
 #Netflix
 
-https://www.talentbuddy.co/blog/building-with-node-js-at-netflix/
+<https://www.talentbuddy.co/blog/building-with-node-js-at-netflix/>
 
 * Java-tik Node.js-ra. 
     

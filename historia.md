@@ -1,3 +1,5 @@
+![Alt text](https://raw.githubusercontent.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/master/irudiak/goiburua.png)
+
 #HISTORIA LABURRA
 
 * 2009an sortu zuen Ryan Dahl-ek (eta beste lankide batzuek), Joyent enpresan lanean zebilelarik.

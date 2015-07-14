@@ -1,6 +1,8 @@
+![Alt text](https://raw.githubusercontent.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/master/irudiak/goiburua.png)
+
 #PayPal
 
-https://www.talentbuddy.co/blog/building-with-node-js/
+<https://www.talentbuddy.co/blog/building-with-node-js/>
 
 
 * Bi teknologia erabiltzen zituzten: C++ XSL templateekin eta Java JSP-rekin
