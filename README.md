@@ -23,6 +23,8 @@ Ikastaroa 2015eko uztailaren 15 eta 16ean eman da Eibarren.
 
 * [WebSocket-ak](https://github.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/blob/master/websocketak.md)
 
+* [JavaScript/JSON](https://github.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/blob/master/JSON.md)
+
 ###Gure artean
 
 * [Grunt/Gulp](https://github.com/jimakker/Sare-aplikazioak-Node.js-rekin-eta-web-irekia/blob/master/grunt_gulp.md)
