@@ -2,7 +2,7 @@
 
 #Sare aplikazioak Node.js-rekin eta web irekia
 
-[UEU](http://www.ueu.eus/)k antolatutako `Sare aplikazioak Node.js-rekin eta web irekia` ikastaro/mahainguruaren ikastaro atalean erabilitako informazioa da hau.
+[UEU](http://www.ueu.eus/)k antolatutako `Sare aplikazioak Node.js-rekin eta web irekia` ikastaroan erabilitako informazioa da hau.
 
 Ikastaroa 2015eko uztailaren 15 eta 16ean eman da Eibarren.
 
